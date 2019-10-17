@@ -1,0 +1,20 @@
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\bin\Debug\timmer_calisma.exe.config
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\bin\Debug\timmer_calisma.exe
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\bin\Debug\timmer_calisma.pdb
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.csprojAssemblyReference.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.Form1.resources
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.Properties.Resources.resources
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.csproj.GenerateResource.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.csproj.CoreCompileInputs.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.exe
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_calisma\timmer_calisma\obj\Debug\timmer_calisma.pdb
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\bin\Debug\timmer_calisma.exe.config
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\bin\Debug\timmer_calisma.exe
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\bin\Debug\timmer_calisma.pdb
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.csprojAssemblyReference.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.Form1.resources
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.Properties.Resources.resources
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.csproj.GenerateResource.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.csproj.CoreCompileInputs.cache
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.exe
+C:\Users\İsa Aytış\Music\Desktop\visio studio kayıt yeri\Kendi çalışmalarım\timmer_At Yarışı\timmer_calisma\obj\Debug\timmer_calisma.pdb
